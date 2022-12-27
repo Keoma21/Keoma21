@@ -1,10 +1,4 @@
-### Olá, eu sou o Keoma! 👋
-
-
-
-- 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Python
- 
+## Olá, eu sou o Keoma!
 <div align="center">
   <a href="https://github.com/keoma21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keoma21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
